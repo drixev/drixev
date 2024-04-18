@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m backend software engineer, currently working on .Net mainly .Net Core <br>🤝 🌱 I’m currently learning Design pattern, Clean Architecture, Microservices, Docker, AWS and others stack tech
+🔭 I’m backend software engineer, currently working on .Net mainly, but I dont not have problem learning another stack tech (For example, a like to work with nodejs, angular and python) <br>🤝 🌱 I’m currently learning Design pattern, Clean Architecture, Microservices, Docker, AWS and others stack tech
 
 
 ## 🌐 Socials:
