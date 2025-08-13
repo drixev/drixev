@@ -1,13 +1,101 @@
-# 💫 About Me:
-🔭 I’m backend software engineer, currently working on .Net mainly, but I dont not have problem learning another stack tech (For example, a like to work with nodejs, angular and python) <br>🤝 🌱 I’m currently learning Design pattern, Clean Architecture, Microservices, Docker, AWS and others stack tech
+<!-- Header -->
+<h1 align="center">Hi there, I'm Andy 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Senior+.NET+Developer;Tech+Lead;Software+Architect+in+Progress;Full-Stack+Engineer;Mentor+%26+Team+Builder" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fullstack-ad&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fullstack-ad&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-ad&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 🚀 About Me
+
+- **8+ years** delivering software across finance, education, planning, and e-commerce.
+- From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web Forms** modernizations and **.NET Core** services.
+- Backend focus on **C#/.NET**, microservices, **REST** and **GraphQL**; frontend with **React** & **Angular**.
+- Cloud/serverless with **Azure Functions** and **AWS Lambda**; containers with **Docker**.
+- Identity with **Azure Entra ID** (OIDC/OAuth2). CI/CD with **GitHub Actions**, **Azure DevOps**, **Bitbucket Pipelines**.
+- Love mentoring, unblocking teams, and building maintainable systems with clean architecture.
+
+---
+
+## 🛠 Tech Stack (Unified Dark Style)
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=database&logoColor=white)
+![VB6.0](https://img.shields.io/badge/VB6.0-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### .NET & Backend
+![.NET](https://img.shields.io/badge/.NET-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-1E1E1E?style=for-the-badge&logo=blazor&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1E1E1E?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-1E1E1E?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1E1E1E?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Frontend & State
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1E1E1E?style=for-the-badge&logo=angular&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI%2FMaterial-1E1E1E?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-1E1E1E?style=for-the-badge&logo=ngrx&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-1E1E1E?style=for-the-badge&logoColor=white)
+
+### Data & Search
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1E1E1E?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Cloud, Identity & DevOps
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-1E1E1E?style=for-the-badge&logo=azure-functions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-1E1E1E?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white)
+![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E1E1E?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1E1E1E?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-1E1E1E?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### Quality, Testing & Practices
+![JMeter](https://img.shields.io/badge/JMeter-1E1E1E?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-1E1E1E?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-1E1E1E?style=for-the-badge&logo=fortinet&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1E1E1E?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-1E1E1E?style=for-the-badge&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-1E1E1E?style=for-the-badge&logoColor=white)
+![Unit/Integration Testing](https://img.shields.io/badge/Unit%20%2F%20Integration%20Testing-1E1E1E?style=for-the-badge&logoColor=white)
+
+---
+
+## 📊 GitHub Stats (Color-Matched)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
+</p>
+
+---
+
+## 📌 Selected Work
+- **Enterprise modernizations**: migrating Windows Forms → ASP.NET Web Forms + services.
+- **APIs & microservices**: C#/.NET and Node.js with REST/GraphQL, EF/Dapper/Prisma.
+- **Cloud-native**: Functions/Lambda, Docker, CI/CD (Actions, Azure DevOps, Bitbucket).
+
+---
+
+## 📊 GitHub Stats
+
+![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
