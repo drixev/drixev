@@ -90,13 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-ad&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-ad&layout=compact&theme=tokyonight)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
