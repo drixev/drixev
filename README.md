@@ -84,10 +84,10 @@
 ---
 
 ## 📌 Selected Work
-- **Enterprise modernizations**: migrating Windows Forms → ASP.NET Web Forms + services.
+- **Web development & UI engineering**: Building responsive, accessible applications with React, Angular, MUI/Material, Bootstrap, NgRx, Zustand.
 - **APIs & microservices**: C#/.NET and Node.js with REST/GraphQL, EF/Dapper/Prisma.
 - **Cloud-native**: Functions/Lambda, Docker, CI/CD (Actions, Azure DevOps, Bitbucket).
-
+- **Enterprise modernizations**: migrating Windows Forms → ASP.NET Web Forms + services.
 ---
 
 ### ✍️ Random Dev Quote
