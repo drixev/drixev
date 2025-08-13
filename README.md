@@ -73,12 +73,12 @@
 ## 📊 GitHub Stats (Color-Matched)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fullstack-ad&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-ad&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullstack-ad&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
 ---
@@ -92,8 +92,8 @@
 
 ## 📊 GitHub Stats
 
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-ad&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-ad&layout=compact&theme=tokyonight)
 
 ---
 
