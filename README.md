@@ -73,12 +73,12 @@
 ## 📊 GitHub Stats (Color-Matched)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fullstack-ad&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-ad&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drixev&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drixev&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullstack-ad&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drixev&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
 ---
@@ -94,6 +94,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fullstack-ad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=drixev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
