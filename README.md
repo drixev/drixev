@@ -75,10 +75,6 @@
 ## 📊 GitHub Stats (Color-Matched)
 
 <p align="center">
-  <img height="165" src="(https://github-readme-stats.vercel.app/api?username=drixev)](https://github.com/drixev/github-readme-stats)" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=drixev&hide_border=true&area=true&bg_color=1E1E1E&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
