@@ -75,8 +75,7 @@
 ## 📊 GitHub Stats (Color-Matched)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drixev&show_icons=true&hide_border=true&count_private=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drixev&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="165" src="(https://github-readme-stats.vercel.app/api?username=drixev)](https://github.com/drixev/github-readme-stats)" />
 </p>
 
 <p align="center">
