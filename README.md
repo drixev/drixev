@@ -10,8 +10,8 @@
 ## 🚀 About Me
 
 - **8+ years** delivering software across finance, education, planning, and e-commerce.
-- From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web** modernizations and **.NET Core** services.
 - Backend focus on **C#/.NET**, microservices, **REST** and **GraphQL**; frontend with **React** & **Angular**.
+- From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web** modernizations and **.NET Core** services.
 - Cloud/serverless with **AWS Lambda** **AWS DynamoDB** **AWS Cognito** **AWS API Gateway**; containers with **Docker**.
 - Identity with **Azure Entra ID** and **AWS Cognito**. CI/CD with **GitHub Actions**
 - Love mentoring, unblocking teams, and building maintainable systems with clean architecture.
@@ -34,8 +34,8 @@
 ![Express](https://img.shields.io/badge/Express-1E1E1E?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1E1E1E?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-1E1E1E?style=for-the-badge&logo=prisma&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Fastify](https://img.shields.io/badge/Fastify-1E1E1E?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Frontend & State
 ![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=white)
