@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Andy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Senior+.NET+Developer;Tech+Lead;Software+Architect+in+Progress;Full-Stack+Engineer;Mentor+%26+Team+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Senior+Developer;Tech+Lead;Software+Architect+in+Progress;Full-Stack+Engineer;Mentor+%26+Team+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,6 +17,15 @@
 - Love mentoring, unblocking teams, and building maintainable systems with clean architecture.
 
 ---
+
+## Projects
+### Node packages:
+- ![easy-fetch] -> https://www.npmjs.com/package/@fsad-labs/easy-fetch : A minimalist alternative to Axios
+- ![sortzilla] -> https://www.npmjs.com/package/@fsad-labs/sortzilla : A set of sorting algorithms
+  
+### WEB
+- ![GastIQ] -> https://expense-tracker-web-livid-tau.vercel.app/auth : Expense control managenment
+- ![Secret Santta Game] -> https://secret-friend-app-web.vercel.app/ : An online game for Secret Santa
 
 ## 🛠 Tech Stack (Unified Dark Style)
 
