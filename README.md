@@ -33,12 +33,10 @@
 ![C#](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=database&logoColor=white)
-![VB6.0](https://img.shields.io/badge/VB6.0-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
 
 ### .NET & Backend
 ![.NET](https://img.shields.io/badge/.NET-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1E1E1E?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1E1E1E?style=for-the-badge&logo=graphql&logoColor=white)
@@ -59,13 +57,16 @@
 
 ### Data & Search
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-1E1E1E?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/AWS%20Cognito-1E1E1E?style=for-the-badge&logo=aws-cognito&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-1E1E1E?style=for-the-badge&logo=aws-dynamoDB&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Cloud, Identity & DevOps
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-1E1E1E?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-1E1E1E?style=for-the-badge&logo=aws-cogniro&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20Api%20Gateway-1E1E1E?style=for-the-badge&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20Cloud%20Formation-1E1E1E?style=for-the-badge&logo=aws-cloud-formation&logoColor=white)
+![IoC Serveless](https://img.shields.io/badge/AWS%20Serverless-1E1E1E?style=for-the-badge&logo=Serverless&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-1E1E1E?style=for-the-badge&logo=azure-functions&logoColor=white)
 ![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white)
