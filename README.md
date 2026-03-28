@@ -20,12 +20,12 @@
 
 ## Projects
 ### Node packages:
-- ![easy-fetch] -> https://www.npmjs.com/package/@fsad-labs/easy-fetch : A minimalist alternative to Axios
-- ![sortzilla] -> https://www.npmjs.com/package/@fsad-labs/sortzilla : A set of sorting algorithms
+- [easy-fetch] -> https://www.npmjs.com/package/@fsad-labs/easy-fetch : A minimalist alternative to Axios
+- [sortzilla] -> https://www.npmjs.com/package/@fsad-labs/sortzilla : A set of sorting algorithms
   
 ### WEB
-- ![GastIQ] -> https://expense-tracker-web-livid-tau.vercel.app/auth : Expense control managenment
-- ![Secret Santta Game] -> https://secret-friend-app-web.vercel.app/ : An online game for Secret Santa
+- [GastIQ] -> https://expense-tracker-web-livid-tau.vercel.app/auth : Expense control managenment
+- [Secret Santa Game] -> https://secret-friend-app-web.vercel.app/ : An online game for Secret Santa
 
 ## 🛠 Tech Stack (Unified Dark Style)
 
