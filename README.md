@@ -19,16 +19,16 @@
 
 ## Projects
 ### Node packages:
-- [easy-fetch] -> https://www.npmjs.com/package/@fsad-labs/easy-fetch : A minimalist alternative to Axios
-- [sortzilla] -> https://www.npmjs.com/package/@fsad-labs/sortzilla : A set of sorting algorithms
+- [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : A minimalist alternative to Axios
+- [sortzilla](https://www.npmjs.com/package/@fsad-labs/sortzilla) : A set of sorting algorithms
   
 ### WEB
-- [GastIQ] -> https://expense-tracker-web-livid-tau.vercel.app/auth : Expense control managenment
-- [Secret Santa Game] -> https://secret-friend-app-web.vercel.app/ : An online game for Secret Santa
+- [GastIQ](https://expense-tracker-web-livid-tau.vercel.app/auth) : Expense control managenment
+- [Secret Santa Game](https://secret-friend-app-web.vercel.app) : An online game for Secret Santa
 
 ### EXTENSIONS
-- [Git Coach] -> https://marketplace.visualstudio.com/items?itemName=drixev.git-coach : VS Code extension to help you learn Git commands.
-- [Time Boos] -> https://marketplace.visualstudio.com/items?itemName=drixev.time-boss : VS Code extension to help you to be focus as developer.
+- [Git Coach](https://marketplace.visualstudio.com/items?itemName=drixev.git-coach) : VS Code extension to help you learn Git commands.
+- [Time Boos](https://marketplace.visualstudio.com/items?itemName=drixev.time-boss) : VS Code extension to help you to be focus as developer.
 
 ## 🛠 Tech Stack (Unified Dark Style)
 
