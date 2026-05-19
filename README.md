@@ -30,6 +30,8 @@
 - [Git Coach](https://marketplace.visualstudio.com/items?itemName=drixev.git-coach) : VS Code extension to help you learn Git commands.
 - [Time Boos](https://marketplace.visualstudio.com/items?itemName=drixev.time-boss) : VS Code extension to help you to be focus as developer.
 
+If you want to see all my projects, you can visit [My Tools](https://github.com/orgs/drixev-tools/repositories)
+
 ## 🛠 Tech Stack (Unified Dark Style)
 
 ### Languages
