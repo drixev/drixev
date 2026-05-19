@@ -17,7 +17,8 @@
 - From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web** modernizations and **.NET Core** services.
 ---
 
-## Projects
+## Projects `You check here all [My Projects](https://github.com/orgs/drixev-tools/repositories)`
+
 ### Node packages:
 - [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : A minimalist alternative to Axios
 - [sortzilla](https://www.npmjs.com/package/@fsad-labs/sortzilla) : A set of sorting algorithms
@@ -29,8 +30,6 @@
 ### EXTENSIONS
 - [Git Coach](https://marketplace.visualstudio.com/items?itemName=drixev.git-coach) : VS Code extension to help you learn Git commands.
 - [Time Boos](https://marketplace.visualstudio.com/items?itemName=drixev.time-boss) : VS Code extension to help you to be focus as developer.
-
-If you want to see all my projects, you can visit [My Tools](https://github.com/orgs/drixev-tools/repositories)
 
 ## 🛠 Tech Stack (Unified Dark Style)
 
