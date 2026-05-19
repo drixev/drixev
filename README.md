@@ -17,7 +17,7 @@
 - From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web** modernizations and **.NET Core** services.
 ---
 
-## Projects `You check here all [My Projects](https://github.com/orgs/drixev-tools/repositories)`
+## Projects - Here you can check all [My Projects](https://github.com/orgs/drixev-tools/repositories)
 
 ### Node packages:
 - [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : A minimalist alternative to Axios
