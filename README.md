@@ -20,8 +20,9 @@
 ## Projects - Here you can check all [My Projects](https://github.com/orgs/drixev-tools/repositories)
 
 ### Node packages:
-- [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : A minimalist alternative to Axios
-- [sortzilla](https://www.npmjs.com/package/@fsad-labs/sortzilla) : A set of sorting algorithms
+- [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : Lightweight fetch wrapper with interceptors support
+- [sortzilla](https://www.npmjs.com/package/@fsad-labs/sortzilla) : Sorts Algorithms in your hand
+- [sage](https://www.npmjs.com/package/@drixev/sage) AI-powered Git assistant CLI — smarter commits, PR summaries, code reviews & risk analysis
   
 ### WEB
 - [GastIQ](https://expense-tracker-web-livid-tau.vercel.app/auth) : Expense control managenment
