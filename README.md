@@ -9,12 +9,10 @@
 
 ## 🚀 About Me
 
-- **8+ years** delivering software across finance, education, planning, and e-commerce.
-- Backend focus on **NodeJS/.NET**, microservices, **REST** and **GraphQL**; frontend with **React** & **Angular**.
-- Cloud/serverless with **AWS Lambda** **AWS DynamoDB** **AWS Cognito** **AWS API Gateway**; containers with **Docker** and Serverless.
-- Identity **AWS Cognito**, **JWT**. CI/CD with **GitHub Actions**
-- Love mentoring, unblocking teams, and building maintainable systems with clean architecture.
-- From **VB6.0** and legacy **Windows Forms** → to **ASP.NET Web** modernizations and **.NET Core** services.
+Hey there! I'm a software engineer with 9+ years building products across finance, education, urban planning, and e-commerce — the kind of work where reliability actually matters.
+These days I mostly live in Node.js, .NET and Python, building microservices with REST and GraphQL APIs, and rounding things out on the frontend with React and Angular. On the cloud side, I'm big on serverless — AWS Lambda, DynamoDB, API Gateway, and Cognito for auth — usually wrapped up in Docker containers and shipped through GitHub Actions CI/CD pipelines.
+I've got a soft spot for legacy modernization too — I started out in VB6 and classic Windows Forms, and there's something satisfying about dragging an old ASP.NET system into a clean, modern .NET Core architecture.
+Outside of writing code, I enjoy mentoring, clearing blockers for my team, and pushing for systems that are actually maintainable a year from now — not just today.
 ---
 
 ## Projects - Here you can check all [My Projects](https://github.com/orgs/drixev-tools/repositories)
