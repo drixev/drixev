@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm a software engineer with 9+ years building products across finance, education, urban planning, and e-commerce — the kind of work where reliability actually matters.
+Hey there! I'm a software engineer with 10+ years building products across finance, education, urban planning, and e-commerce — the kind of work where reliability actually matters.
 These days I mostly live in Node.js, .NET and Python, building microservices with REST and GraphQL APIs, and rounding things out on the frontend with React and Angular. On the cloud side, I'm big on serverless — AWS Lambda, DynamoDB, API Gateway, and Cognito for auth — usually wrapped up in Docker containers and shipped through GitHub Actions CI/CD pipelines.
 I've got a soft spot for legacy modernization too — I started out in VB6 and classic Windows Forms, and there's something satisfying about dragging an old ASP.NET system into a clean, modern .NET Core architecture.
 Outside of writing code, I enjoy mentoring, clearing blockers for my team, and pushing for systems that are actually maintainable a year from now — not just today.
@@ -19,8 +19,8 @@ Outside of writing code, I enjoy mentoring, clearing blockers for my team, and p
 ## Projects - Here you can check all [My Projects](https://github.com/orgs/drixev-tools/repositories)
 
 ### Node packages:
-- [easy-fetch](https://www.npmjs.com/package/@fsad-labs/easy-fetch) : Lightweight fetch wrapper with interceptors support
-- [sortzilla](https://www.npmjs.com/package/@fsad-labs/sortzilla) : Sorts Algorithms in your hand
+- [easy-fetch](https://www.npmjs.com/package/@drixev/easy-fetch) : Lightweight fetch wrapper with interceptors support
+- [sortzilla](https://www.npmjs.com/package/@drixev/sortzilla) : Sorts Algorithms in your hand
 - [sage](https://www.npmjs.com/package/@drixev/sage) AI-powered Git assistant CLI — smarter commits, PR summaries, code reviews & risk analysis
   
 ### WEB
@@ -28,8 +28,9 @@ Outside of writing code, I enjoy mentoring, clearing blockers for my team, and p
 - [Secret Santa Game](https://secret-friend-app-web.vercel.app) : An online game for Secret Santa
 
 ### EXTENSIONS
-- [Git Coach](https://marketplace.visualstudio.com/items?itemName=drixev.git-coach) : VS Code extension to help you learn Git commands.
-- [Time Boos](https://marketplace.visualstudio.com/items?itemName=drixev.time-boss) : VS Code extension to help you to be focus as developer.
+- [Git Coach](https://marketplace.visualstudio.com/items?itemName=drixev.git-coach) : Transparent Git workflows with visible command suggestions
+- [Time Boos](https://marketplace.visualstudio.com/items?itemName=drixev.time-boss) : A focus timer that lives inside VS Code. It helps you work in focused blocks of time, take intentional breaks, and actually see how much you got done.
+- [Atlas Graph](https://marketplace.visualstudio.com/items?itemName=drixev.atlas-graph) : Visualize and navigate the code graph of your project — dependencies, calls, and structure — directly inside VS Code.
 
 ## 🛠 Tech Stack (Unified Dark Style)
 
